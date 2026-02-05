@@ -611,7 +611,7 @@
             <div class="menu-items">
                 <div id="menu-toggle" class="menu-toggle">
                     <div class="svg-icon menu-icon"></div>
-                    <div class="menu-item">Менюююшка</div>
+                    <div class="menu-item">Пенюшка</div>
                 </div>
                 <div class="menu-links">
                     <div class="arrow-header-tutors">
